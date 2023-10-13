@@ -112,7 +112,7 @@
   width: 345px;
   text-align: center;
   & img {
-    width: 220px;
+    width: 260px;
   }
 }
 .header-menu-box {
@@ -372,7 +372,7 @@
     }
     & img {
       @media #{$xxl,$xl} {
-        width: 150px;
+        width: 180px;
       }
     }
   }
@@ -572,15 +572,15 @@
 }
 .tp-mob-logo {
   & img {
-    width: 220px;
+    width: 250px;
     @media #{$xs,$md} {
-      width: 180px;
+      width: 210px;
     }
   }
 }
 .logo {
   & img {
-    width: 220px;
+    width: 260px;
   }
 }
 .footer-widget {
