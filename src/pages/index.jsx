@@ -7,7 +7,7 @@ import Wrapper from "@/layout/wrapper";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle="Home Main" />
+      <SEO pageTitle="NSD Home" />
       <Layout>
         <HomeOne />
       </Layout>
